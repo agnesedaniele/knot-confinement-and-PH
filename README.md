@@ -1,7 +1,7 @@
 # knot-confinement-and-PH
 Dataset for the paper "A statistical approach to knot confinement via PH" with B.I.Mahler
 
-This dataset consitst of several .xls files, and a single .py file. The former are divided in two kinds, called "all_knots_with_size_X" 
+This dataset consists of several .xls files, and a single .py file. The former are divided in two kinds, called "all_knots_with_size_X" 
 and "specific-X-Y". 
 In the first case X is an integer between 10 and 100 (with step 10); each file contains 10.000 PL knot embeddings, decorated with:
 the name of the knot (as created by Topoly), the diameter of the minimal circumscribing sphere, the knot's curvature and torsion,
