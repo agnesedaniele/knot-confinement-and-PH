@@ -13,3 +13,6 @@ an "unknown" category that collects knots with minimal crossing number greater t
 step 50. For each pair X,Y we examine 1000 PL knots.
 
 Finally, the Python file "github_python_functions.py" contains the main functions we used to produce the dataset described above.
+
+The author was supported by the European Research Council (ERC) under the European Union’s Horizon 2020 research and 
+innovation programme (grant agreement No 674978).
